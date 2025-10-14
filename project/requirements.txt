@@ -1,0 +1,6 @@
+streamlit
+cohere
+python-dotenv
+pandas
+numpy
+matplotlib
