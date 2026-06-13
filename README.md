@@ -2,6 +2,8 @@
 
 Its a Python-based system to detect logical and syntax errors in source code, Automated debugging assistance to improve code quality and development efficiency.
 
+
+
 This contains everything you need to run app locally.
 
 ## Run Locally
