@@ -1,7 +1,6 @@
 # AI-Powered-Code-Debugger
 
-Its a cloud to-do web app  where users can create, edit, mark as completed, 
-and delete to-do tasks, with data stored in the cloud.
+Its a Python-based system to detect logical and syntax errors in source code, Automated debugging assistance to improve code quality and development efficiency.
 
 This contains everything you need to run app locally.
 
@@ -12,9 +11,17 @@ This contains everything you need to run app locally.
 This Website is deployed.
 
 1. Install dependencies:
-   `npm install`
-2. Run the app:
-   `nmp run dev`
+   'pip install'
+   'streamlit'
+   'cohere'
+   'python-dotenv'
+   'pandas'
+   'numpy'
+   'matplotlib`
+   
+3. Run the app:
+   '.\myenv\scripts\Activate.ps1`
+   'streamlit run front.py' 
    
 
 ![image alt](https://github.com/RakshithMR123/AI-Powered-Code-Debugger/blob/24047614e197d16222e3bd810dd708d45e516f07/Image%201.jpg)
